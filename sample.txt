@@ -1,0 +1,10 @@
+node {
+stage("first"){
+
+echo "first line"
+
+}
+stage("second"){
+echo "second line"
+}
+}
